@@ -1,0 +1,67 @@
+2023-03-06 19:05:11,433  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-06 19:05:11,720  INFO [main] SauceDemo-15Oct-Project:54 - Window is maximized
+2023-03-06 19:05:12,887  INFO [main] SauceDemo-15Oct-Project:56 - URL is opened
+2023-03-06 19:05:13,123  INFO [main] SauceDemo-15Oct-Project:62 - Username is entered
+2023-03-06 19:05:13,244  INFO [main] SauceDemo-15Oct-Project:64 - Password is entered
+2023-03-06 19:05:13,524  INFO [main] SauceDemo-15Oct-Project:66 - Clicked on login button
+2023-03-06 19:05:13,525  INFO [main] SauceDemo-15Oct-Project:68 - Went on Home page
+2023-03-06 19:05:13,953  INFO [main] SauceDemo-15Oct-Project:75 - Browser is closed
+2023-03-06 19:05:13,958  INFO [main] SauceDemo-15Oct-Project:76 - End of Program
+2023-03-06 19:08:47,013  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-06 19:08:47,201  INFO [main] SauceDemo-15Oct-Project:54 - Window is maximized
+2023-03-06 19:08:48,486  INFO [main] SauceDemo-15Oct-Project:56 - URL is opened
+2023-03-06 19:08:48,854  INFO [main] SauceDemo-15Oct-Project:62 - Username is entered
+2023-03-06 19:08:49,027  INFO [main] SauceDemo-15Oct-Project:64 - Password is entered
+2023-03-06 19:08:49,355  INFO [main] SauceDemo-15Oct-Project:66 - Clicked on login button
+2023-03-06 19:08:49,356  INFO [main] SauceDemo-15Oct-Project:68 - Went on Home page
+2023-03-06 19:08:49,411  INFO [main] SauceDemo-15Oct-Project:24 - TC is pass
+2023-03-06 19:08:50,029  INFO [main] SauceDemo-15Oct-Project:75 - Browser is closed
+2023-03-06 19:08:50,030  INFO [main] SauceDemo-15Oct-Project:76 - End of Program
+2023-03-06 20:00:26,341  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-06 20:00:26,368  INFO [main] SauceDemo-15Oct-Project:54 - Window is maximized
+2023-03-06 20:00:27,585  INFO [main] SauceDemo-15Oct-Project:56 - URL is opened
+2023-03-06 20:00:27,817  INFO [main] SauceDemo-15Oct-Project:62 - Username is entered
+2023-03-06 20:00:27,886  INFO [main] SauceDemo-15Oct-Project:64 - Password is entered
+2023-03-06 20:00:28,223  INFO [main] SauceDemo-15Oct-Project:66 - Clicked on login button
+2023-03-06 20:00:28,223  INFO [main] SauceDemo-15Oct-Project:68 - Went on Home page
+2023-03-06 20:00:28,244  INFO [main] SauceDemo-15Oct-Project:24 - Login TC is pass
+2023-03-06 20:00:29,634  INFO [main] SauceDemo-15Oct-Project:75 - Browser is closed
+2023-03-06 20:00:29,634  INFO [main] SauceDemo-15Oct-Project:76 - End of Program
+2023-03-06 20:00:33,590  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-06 20:00:33,599  INFO [main] SauceDemo-15Oct-Project:54 - Window is maximized
+2023-03-06 20:00:35,037  INFO [main] SauceDemo-15Oct-Project:56 - URL is opened
+2023-03-06 20:00:35,168  INFO [main] SauceDemo-15Oct-Project:62 - Username is entered
+2023-03-06 20:00:35,221  INFO [main] SauceDemo-15Oct-Project:64 - Password is entered
+2023-03-06 20:00:35,445  INFO [main] SauceDemo-15Oct-Project:66 - Clicked on login button
+2023-03-06 20:00:35,445  INFO [main] SauceDemo-15Oct-Project:68 - Went on Home page
+2023-03-06 20:00:37,362  INFO [main] SauceDemo-15Oct-Project:75 - Browser is closed
+2023-03-06 20:00:37,362  INFO [main] SauceDemo-15Oct-Project:76 - End of Program
+2023-03-06 20:00:40,940  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-06 20:00:40,948  INFO [main] SauceDemo-15Oct-Project:54 - Window is maximized
+2023-03-06 20:00:42,252  INFO [main] SauceDemo-15Oct-Project:56 - URL is opened
+2023-03-06 20:00:42,381  INFO [main] SauceDemo-15Oct-Project:62 - Username is entered
+2023-03-06 20:00:42,450  INFO [main] SauceDemo-15Oct-Project:64 - Password is entered
+2023-03-06 20:00:42,679  INFO [main] SauceDemo-15Oct-Project:66 - Clicked on login button
+2023-03-06 20:00:42,679  INFO [main] SauceDemo-15Oct-Project:68 - Went on Home page
+2023-03-06 20:00:44,385  INFO [main] SauceDemo-15Oct-Project:75 - Browser is closed
+2023-03-06 20:00:44,386  INFO [main] SauceDemo-15Oct-Project:76 - End of Program
+2023-03-06 20:00:48,264  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-06 20:00:48,269  INFO [main] SauceDemo-15Oct-Project:54 - Window is maximized
+2023-03-06 20:00:49,624  INFO [main] SauceDemo-15Oct-Project:56 - URL is opened
+2023-03-06 20:00:49,750  INFO [main] SauceDemo-15Oct-Project:62 - Username is entered
+2023-03-06 20:00:49,818  INFO [main] SauceDemo-15Oct-Project:64 - Password is entered
+2023-03-06 20:00:50,085  INFO [main] SauceDemo-15Oct-Project:66 - Clicked on login button
+2023-03-06 20:00:50,085  INFO [main] SauceDemo-15Oct-Project:68 - Went on Home page
+2023-03-06 20:00:52,263  INFO [main] SauceDemo-15Oct-Project:75 - Browser is closed
+2023-03-06 20:00:52,263  INFO [main] SauceDemo-15Oct-Project:76 - End of Program
+2023-03-07 18:18:09,931  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-07 18:19:01,239  INFO [main] SauceDemo-15Oct-Project:51 - Browser is opened
+2023-03-07 18:19:01,265  INFO [main] SauceDemo-15Oct-Project:54 - Window is maximized
+2023-03-07 18:19:02,765  INFO [main] SauceDemo-15Oct-Project:56 - URL is opened
+2023-03-07 18:19:03,011  INFO [main] SauceDemo-15Oct-Project:62 - Username is entered
+2023-03-07 18:19:03,099  INFO [main] SauceDemo-15Oct-Project:64 - Password is entered
+2023-03-07 18:19:03,513  INFO [main] SauceDemo-15Oct-Project:66 - Clicked on login button
+2023-03-07 18:19:03,513  INFO [main] SauceDemo-15Oct-Project:68 - Went on Home page
+2023-03-07 18:19:03,535  INFO [main] SauceDemo-15Oct-Project:24 - Login TC is pass
+2023-03-07 18:19:05,253  INFO [main] SauceDemo-15Oct-Project:75 - Browser is closed
+2023-03-07 18:19:05,254  INFO [main] SauceDemo-15Oct-Project:76 - End of Program
